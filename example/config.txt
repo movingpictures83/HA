@@ -1,0 +1,2 @@
+Prefix plugins/HA/example/
+Plugin HA inputfile data/los_speed.csv outputfile none
