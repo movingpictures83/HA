@@ -1,0 +1,26 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: HA
+HA_rmse:7.306713710045223 HA_mae:3.878159422422229 HA_acc:0.8756113568497161 HA_r2:0.7224883262310877 HA_var:0.7225082534726233
